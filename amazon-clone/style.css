@@ -170,6 +170,7 @@ span{
     margin-left: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
+    transition: all 0.3s ease-in ;
 }
 .img-sec2{
     height: 70%;
@@ -180,6 +181,7 @@ span{
     margin-left: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
+    transition: all 0.3s ease-in ;
 }
 .img-sec3{
     height: 70%;
@@ -190,6 +192,7 @@ span{
     margin-left: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
+    transition: all 0.3s ease-in ;
 }
 .img-sec4{
     height: 70%;
@@ -200,6 +203,7 @@ span{
     margin-left: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
+    transition: all 0.3s ease-in ;
 }
 .img-sec8{
     height: 70%;
@@ -210,6 +214,7 @@ span{
     margin-left: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
+    transition: all 0.3s ease-in ;
 }
 .img-sec5{
     height: 70%;
@@ -220,6 +225,7 @@ span{
     margin-left: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
+    transition: all 0.3s ease-in ;
 }
 .img-sec6{
     height: 70%;
@@ -230,6 +236,7 @@ span{
     margin-left: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
+    transition: all 0.3s ease-in ;
 }
 .img-sec7{
     height: 70%;
@@ -240,6 +247,7 @@ span{
     margin-left: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
+    transition: all 0.3s ease-in ;
 }
 .section1 p, .section2 p, .section3 p, .section4 p, .section5 p, .section6 p, .section7 p, .section8 p{
     margin-top: 15px;
@@ -487,4 +495,8 @@ span{
     text-decoration: underline;
     color: #cccccc;
 }
+.img-sec1:hover, .img-sec2:hover, .img-sec3:hover, .img-sec4:hover, .img-sec5:hover, .img-sec6:hover, .img-sec7:hover, .img-sec8:hover{
+    transform: scale(1.05);
+    border-radius: 4px;
+} 
 
